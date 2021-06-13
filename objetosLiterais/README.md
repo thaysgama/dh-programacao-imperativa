@@ -20,4 +20,5 @@ Entender a implementação do spread e parâmetro rest
 **Micro desafios**
 
 1. Crie um array **numerosPrimos** e atribua alguns valores a ele que correspondam ao seu nome. Além disso, crie outro array, desta vez chamado **numeros**, que deve conter os valores do array **numerosPrimos** adicionados através do spread, juntos com outros números.
-2. Crie uma função **maiorNumero**() que receba N parâmetros, e retorne o menor número entre eles, utilizando a função **Math.min()**. Uma observação importante é que a função **Math.min()** **NÃO** deve receber um array como parâmetro, sendo portanto, necessário expandir os valores.
+2. Crie uma função **maiorNumero**() que receba N parâmetros, e retorne o menor número entre eles, utilizando a função **Math.max()**. Uma observação importante é que a função **Math.max()** **NÃO** deve receber um array como parâmetro, sendo portanto, necessário expandir os valores.
+
